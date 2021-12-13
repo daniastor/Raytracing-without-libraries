@@ -3,5 +3,5 @@
 Trazador de rayos de un sistema óptico, el cual, simula un telescopio Maksutov Cassegrain.
 
 <p align="center">
-<img src="https://github.com/daniastor/Raytracing-without-libraries/blob/main/trazador.png" width="600" height="">
+<img src="https://github.com/daniastor/Raytracing-without-libraries/blob/main/trazador.png" width="500" height="">
 </p>
