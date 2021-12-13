@@ -2,9 +2,9 @@
 """
 Created on Tue Oct 15 16:02:02 2019
 
-@author: Dani Astor
+@author: Daniela Fernanda López Astorquiza
 
-trazador de rayos en un sistema optico que simula 
+Trazador de rayos en un sistema optico que simula 
 un telescopio Maksutov Cassegrain
 """
 
